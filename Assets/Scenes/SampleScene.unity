@@ -10384,6 +10384,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2163920078297009615, guid: 00e628a59232d4b45b5343b0b0e1128f, type: 3}
+      propertyPath: m_text
+      value: Also try the "Pirate Port"!
+      objectReference: {fileID: 0}
     - target: {fileID: 4141541786915018902, guid: 00e628a59232d4b45b5343b0b0e1128f, type: 3}
       propertyPath: m_Name
       value: Win
